@@ -6,9 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Supermarket_01.unity
-    guid: e8a38ce024bda0649bc6f5f575f35bd3
-  - enabled: 1
     path: Assets/Scenes/SceneStart.unity
     guid: ce9b045cbb406274eae2191e3829414e
+  - enabled: 1
+    path: Assets/Scenes/Supermarket_01.unity
+    guid: e8a38ce024bda0649bc6f5f575f35bd3
   m_configObjects: {}
